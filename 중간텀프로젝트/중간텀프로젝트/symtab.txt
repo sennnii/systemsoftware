@@ -1,0 +1,10 @@
+Symbol Table:
+Label		Address
+------------------------
+FIRST		1000
+CLOOP		1003
+ENDFIL		100F
+RETADR		1012
+ZERO		1015
+EOF		1018
+END		101B

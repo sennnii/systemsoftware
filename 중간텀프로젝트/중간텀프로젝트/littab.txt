@@ -1,0 +1,4 @@
+Literal Table:
+Literal		Address
+------------------------
+=C'EOF'		101E
